@@ -1,0 +1,2159 @@
+fileFormatVersion: 2
+guid: ad4ae412ed8b22c409478b5e8d24c8cf
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: IsoHex10_3___0
+    21300002: IsoHex10_3___1
+    21300004: IsoHex10_3___2
+    21300006: IsoHex10_3___3
+    21300008: IsoHex10_3___4
+    21300010: IsoHex10_3___5
+    21300012: IsoHex10_3___6
+    21300014: IsoHex10_3___7
+    21300016: IsoHex10_3___8
+    21300018: IsoHex10_3___9
+    21300020: IsoHex10_3___10
+    21300022: IsoHex10_3___11
+    21300024: IsoHex10_3___12
+    21300026: IsoHex10_3___13
+    21300028: IsoHex10_3___14
+    21300030: IsoHex10_3___15
+    21300032: IsoHex10_3___16
+    21300034: IsoHex10_3___17
+    21300036: IsoHex10_3___18
+    21300038: IsoHex10_3___19
+    21300040: IsoHex10_3___20
+    21300042: IsoHex10_3___21
+    21300044: IsoHex10_3___22
+    21300046: IsoHex10_3___23
+    21300048: IsoHex10_3___24
+    21300050: IsoHex10_3___25
+    21300052: IsoHex10_3___26
+    21300054: IsoHex10_3___27
+    21300056: IsoHex10_3___28
+    21300058: IsoHex10_3___29
+    21300060: IsoHex10_3___30
+    21300062: IsoHex10_3___31
+    21300064: IsoHex10_3___32
+    21300066: IsoHex10_3___33
+    21300068: IsoHex10_3___34
+    21300070: IsoHex10_3___35
+    21300072: IsoHex10_3___36
+    21300074: IsoHex10_3___37
+    21300076: IsoHex10_3___38
+    21300078: IsoHex10_3___39
+    21300080: IsoHex10_3___40
+    21300082: IsoHex10_3___41
+    21300084: IsoHex10_3___42
+    21300086: IsoHex10_3___43
+    21300088: IsoHex10_3___44
+    21300090: IsoHex10_3___45
+    21300092: IsoHex10_3___46
+    21300094: IsoHex10_3___47
+    21300096: IsoHex10_3___48
+    21300098: IsoHex10_3___49
+    21300100: IsoHex10_3___50
+    21300102: IsoHex10_3___51
+    21300104: IsoHex10_3___52
+    21300106: IsoHex10_3___53
+    21300108: IsoHex10_3___54
+    21300110: IsoHex10_3___55
+    21300112: IsoHex10_3___56
+    21300114: IsoHex10_3___57
+    21300116: IsoHex10_3___58
+    21300118: IsoHex10_3___59
+    21300120: IsoHex10_3___60
+    21300122: IsoHex10_3___61
+    21300124: IsoHex10_3___62
+    21300126: IsoHex10_3___63
+    21300128: IsoHex10_3___64
+    21300130: IsoHex10_3___65
+    21300132: IsoHex10_3___66
+    21300134: IsoHex10_3___67
+    21300136: IsoHex10_3___68
+    21300138: IsoHex10_3___69
+    21300140: IsoHex10_3___70
+    21300142: IsoHex10_3___71
+    21300144: IsoHex10_3___72
+    21300146: IsoHex10_3___73
+    21300148: IsoHex10_3___74
+    21300150: IsoHex10_3___75
+    21300152: IsoHex10_3___76
+    21300154: IsoHex10_3___77
+    21300156: IsoHex10_3___78
+    21300158: IsoHex10_3___79
+    21300160: IsoHex10_3___80
+    21300162: IsoHex10_3___81
+    21300164: IsoHex10_3___82
+    21300166: IsoHex10_3___83
+    21300168: IsoHex10_3___84
+    21300170: IsoHex10_3___85
+    21300172: IsoHex10_3___86
+    21300174: IsoHex10_3___87
+    21300176: IsoHex10_3___88
+    21300178: IsoHex10_3___89
+    21300180: IsoHex10_3___90
+    21300182: IsoHex10_3___91
+    21300184: IsoHex10_3___92
+    21300186: IsoHex10_3___93
+    21300188: IsoHex10_3___94
+    21300190: IsoHex10_3___95
+    21300192: IsoHex10_3___96
+    21300194: IsoHex10_3___97
+    21300196: IsoHex10_3___98
+    21300198: IsoHex10_3___99
+    21300200: IsoHex10_3___100
+    21300202: IsoHex10_3___101
+    21300204: IsoHex10_3___102
+    21300206: IsoHex10_3___103
+    21300208: IsoHex10_3___104
+    21300210: IsoHex10_3___105
+    21300212: IsoHex10_3___106
+    21300214: IsoHex10_3___107
+    21300216: IsoHex10_3___108
+    21300218: IsoHex10_3___109
+    21300220: IsoHex10_3___110
+    21300222: IsoHex10_3___111
+    21300224: IsoHex10_3___112
+    21300226: IsoHex10_3___113
+    21300228: IsoHex10_3___114
+    21300230: IsoHex10_3___115
+    21300232: IsoHex10_3___116
+    21300234: IsoHex10_3___117
+    21300236: IsoHex10_3___118
+    21300238: IsoHex10_3___119
+    21300240: IsoHex10_3___120
+    21300242: IsoHex10_3___121
+    21300244: IsoHex10_3___122
+    21300246: IsoHex10_3___123
+    21300248: IsoHex10_3___124
+    21300250: IsoHex10_3___125
+    21300252: IsoHex10_3___126
+    21300254: IsoHex10_3___127
+    21300256: IsoHex10_3___128
+    21300258: IsoHex10_3___129
+    21300260: IsoHex10_3___130
+    21300262: IsoHex10_3___131
+    21300264: IsoHex10_3___132
+    21300266: IsoHex10_3___133
+    21300268: IsoHex10_3___134
+    21300270: IsoHex10_3___135
+    21300272: IsoHex10_3___136
+    21300274: IsoHex10_3___137
+    21300276: IsoHex10_3___138
+    21300278: IsoHex10_3___139
+    21300280: IsoHex10_3___140
+    21300282: IsoHex10_3___141
+    21300284: IsoHex10_3___142
+    21300286: IsoHex10_3___143
+    21300288: IsoHex10_3___144
+    21300290: IsoHex10_3___145
+    21300292: IsoHex10_3___146
+    21300294: IsoHex10_3___147
+    21300296: IsoHex10_3___148
+    21300298: IsoHex10_3___149
+    21300300: IsoHex10_3___150
+    21300302: IsoHex10_3___151
+    21300304: IsoHex10_3___152
+    21300306: IsoHex10_3___153
+    21300308: IsoHex10_3___154
+    21300310: IsoHex10_3___155
+    21300312: IsoHex10_3___156
+    21300314: IsoHex10_3___157
+    21300316: IsoHex10_3___158
+    21300318: IsoHex10_3___159
+    21300320: IsoHex10_3___160
+    21300322: IsoHex10_3___161
+    21300324: IsoHex10_3___162
+    21300326: IsoHex10_3___163
+    21300328: IsoHex10_3___164
+    21300330: IsoHex10_3___165
+    21300332: IsoHex10_3___166
+    21300334: IsoHex10_3___167
+    21300336: IsoHex10_3___168
+    21300338: IsoHex10_3___169
+    21300340: IsoHex10_3___170
+    21300342: IsoHex10_3___171
+    21300344: IsoHex10_3___172
+    21300346: IsoHex10_3___173
+    21300348: IsoHex10_3___174
+    21300350: IsoHex10_3___175
+    21300352: IsoHex10_3___176
+    21300354: IsoHex10_3___177
+    21300356: IsoHex10_3___178
+    21300358: IsoHex10_3___179
+    21300360: IsoHex10_3___180
+    21300362: IsoHex10_3___181
+    21300364: IsoHex10_3___182
+    21300366: IsoHex10_3___183
+    21300368: IsoHex10_3___184
+    21300370: IsoHex10_3___185
+    21300372: IsoHex10_3___186
+    21300374: IsoHex10_3___187
+    21300376: IsoHex10_3___188
+    21300378: IsoHex10_3___189
+    21300380: IsoHex10_3___190
+    21300382: IsoHex10_3___191
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 50
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: IsoHex10_3___0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 365
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 365
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___2
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 365
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___3
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 365
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___4
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 365
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___5
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 365
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___6
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 365
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___7
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 365
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___8
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 365
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___9
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 365
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___10
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 365
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___11
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 365
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___12
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 365
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___13
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 365
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___14
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 365
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___15
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 365
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 332
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___17
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 332
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___18
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 332
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___19
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 332
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___20
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 332
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___21
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 332
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___22
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 332
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___23
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 332
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___24
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 332
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___25
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 332
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___26
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 332
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___27
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 332
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___28
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 332
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___29
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 332
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___30
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 332
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___31
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 332
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 299
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___33
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 299
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___34
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 299
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___35
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 299
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___36
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 299
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___37
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 299
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___38
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 299
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___39
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 299
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___40
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 299
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___41
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 299
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___42
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 299
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___43
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 299
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___44
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 299
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___45
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 299
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___46
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 299
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___47
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 299
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 266
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___49
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 266
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___50
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 266
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___51
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 266
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___52
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 266
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___53
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 266
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___54
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 266
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___55
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 266
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___56
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 266
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___57
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 266
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___58
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 266
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___59
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 266
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___60
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 266
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___61
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 266
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___62
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 266
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___63
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 266
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 233
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___65
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 233
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___66
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 233
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___67
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 233
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___68
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 233
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___69
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 233
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___70
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 233
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___71
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 233
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___72
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 233
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___73
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 233
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___74
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 233
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___75
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 233
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___76
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 233
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___77
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 233
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___78
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 233
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___79
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 233
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___81
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 200
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___82
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 200
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___83
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 200
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___84
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 200
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___85
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 200
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___86
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 200
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___87
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 200
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___88
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 200
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___89
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 200
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___90
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 200
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___91
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 200
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___92
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 200
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___93
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 200
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___94
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 200
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___95
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 200
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 167
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___97
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 167
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___98
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 167
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___99
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 167
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___100
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 167
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___101
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 167
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___102
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 167
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___103
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 167
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___104
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 167
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___105
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 167
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___106
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 167
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___107
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 167
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___108
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 167
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___109
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 167
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___110
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 167
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___111
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 167
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 134
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___113
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 134
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___114
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 134
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___115
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 134
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___116
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 134
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___117
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 134
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___118
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 134
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___119
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 134
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___120
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 134
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___121
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 134
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___122
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 134
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___123
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 134
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___124
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 134
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___125
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 134
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___126
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 134
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___127
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 134
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___128
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 101
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___129
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 101
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___130
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 101
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___131
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 101
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___132
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 101
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___133
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 101
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___134
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 101
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___135
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 101
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___136
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 101
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___137
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 101
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___138
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 101
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___139
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 101
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___140
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 101
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___141
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 101
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___142
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 101
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___143
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 101
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 68
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___145
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 68
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___146
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 68
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___147
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 68
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___148
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 68
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___149
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 68
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___150
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 68
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___151
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 68
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___152
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 68
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___153
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 68
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___154
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 68
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___155
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 68
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___156
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 68
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___157
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 68
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___158
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 68
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___159
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 68
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 35
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___161
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 35
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___162
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 35
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___163
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 35
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___164
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 35
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___165
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 35
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___166
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 35
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___167
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 35
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___168
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 35
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___169
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 35
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___170
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 35
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___171
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 35
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___172
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 35
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___173
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 35
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___174
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 35
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___175
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 35
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___176
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___177
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 2
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___178
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 2
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___179
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 2
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___180
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 2
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___181
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 2
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___182
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 2
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___183
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 2
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___184
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 2
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___185
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 2
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___186
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 2
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___187
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 2
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___188
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 2
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___189
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 2
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___190
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 2
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IsoHex10_3___191
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 2
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

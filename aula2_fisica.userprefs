@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\BreakHinge2d.cs">
+    <Files>
+      <File FileName="..\..\Documents\RobertTheGame\rbt-gm\rbt-gm\Assets\Scripts\Character\DefaultMovement.cs" Line="48" Column="22" />
+      <File FileName="Assets\scripts\BreakHinge2d.cs" Line="11" Column="97" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
